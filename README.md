@@ -22,6 +22,8 @@ Ultimately this approach also failed, past scores did not have predictive power 
 
 Example teams and distributions before loss shifting
 
+! [unnamed3](https://user-images.githubusercontent.com/16391164/102693855-8e923a80-41eb-11eb-9ae6-b755eb9b714a.png)
+
 Score comparison before loss shifting
 
 ![unnamed2](https://user-images.githubusercontent.com/16391164/102693840-77ebe380-41eb-11eb-980d-a9bf86aa261c.png)
