@@ -25,7 +25,8 @@ Example teams and distributions before loss shifting
 Score comparison before loss shifting
 
 After loss shifting
-https://user-images.githubusercontent.com/16391164/102693426-7836af80-41e8-11eb-91b9-56d5b1e2b48d.png
+
+![als](https://user-images.githubusercontent.com/16391164/102693426-7836af80-41e8-11eb-91b9-56d5b1e2b48d.png)
 
 
 
