@@ -1,6 +1,6 @@
 
 { "tokens":
- "0":
+[
 {
     "id": 0,
     "description": "stonks go up",
@@ -8,4 +8,5 @@
     "image": "https://www.ucf.edu/news/files/2020/04/rocket_for_web.jpg",
     "name": "GMEBBY"
   }
+ ]
 }
